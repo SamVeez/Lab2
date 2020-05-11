@@ -1,0 +1,6 @@
+D:\Prakticheskie\2\tcpClient2\bin\Debug\tcpClient2.exe.config
+D:\Prakticheskie\2\tcpClient2\bin\Debug\tcpClient2.exe
+D:\Prakticheskie\2\tcpClient2\bin\Debug\tcpClient2.pdb
+D:\Prakticheskie\2\tcpClient2\obj\Debug\tcpClient2.csprojAssemblyReference.cache
+D:\Prakticheskie\2\tcpClient2\obj\Debug\tcpClient2.exe
+D:\Prakticheskie\2\tcpClient2\obj\Debug\tcpClient2.pdb
